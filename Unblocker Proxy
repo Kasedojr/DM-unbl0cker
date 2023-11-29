@@ -5,3 +5,4 @@ echo "# DM-unbl0cker" >> README.md
   git branch -M main
   git remote add origin https://github.com/Kasedojr/DM-unbl0cker.git
   git push -u origin main
+  git ref refs/heads/master
